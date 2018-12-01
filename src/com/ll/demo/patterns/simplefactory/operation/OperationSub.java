@@ -2,7 +2,7 @@ package com.ll.demo.patterns.simplefactory.operation;
 
 /**
  * 减法运算
- * @author 良辰
+ * @author ll
  * @date 2018/7/23 上午12:47
  */
 public class OperationSub implements Operation{

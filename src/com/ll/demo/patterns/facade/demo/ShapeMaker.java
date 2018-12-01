@@ -2,7 +2,7 @@ package com.ll.demo.patterns.facade.demo;
 
 /**
  * 将请求代理给适当的子系统对象
- * @author 良辰
+ * @author ll
  * @date 2018/9/17 下午5:21
  */
 public class ShapeMaker {

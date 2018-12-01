@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.factory.car;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/8/30 下午5:35
  */
 public interface CarFactory {

@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.decorator.demo;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/8/16 下午3:47
  */
 public class ConcreteDecoratorB extends Decorator {

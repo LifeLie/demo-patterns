@@ -2,7 +2,7 @@ package com.ll.demo.patterns.builder.ordering;
 
 /**
  * 瓶装
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午3:41
  */
 public class Bottle implements Packing {

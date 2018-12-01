@@ -2,7 +2,7 @@ package com.ll.demo.patterns.builder.ordering;
 
 /**
  * 包装纸
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午3:40
  */
 public class Wrapper implements Packing {

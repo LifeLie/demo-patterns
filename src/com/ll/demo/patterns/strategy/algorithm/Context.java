@@ -3,7 +3,7 @@ package com.ll.demo.patterns.strategy.algorithm;
 /**
  * 算法本身只是一种策略，最重要的是这些算法随时都可能互相替换，这就是变化点
  * 利用该类封装变化点
- * @author 良辰
+ * @author ll
  * @date 2018/7/26 上午12:28
  */
 public class Context {

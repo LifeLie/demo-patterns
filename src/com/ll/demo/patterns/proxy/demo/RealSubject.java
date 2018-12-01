@@ -2,7 +2,7 @@ package com.ll.demo.patterns.proxy.demo;
 
 /**
  * 定义Proxy所代表的真实实体
- * @author 良辰
+ * @author ll
  * @date 2018/8/21 上午9:54
  */
 public class RealSubject implements Subject {

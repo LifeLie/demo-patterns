@@ -3,7 +3,7 @@ package com.ll.demo.patterns.proxy;
 import com.ll.demo.patterns.proxy.demo.Proxy;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/8/21 上午10:19
  */
 public class DemoTest {

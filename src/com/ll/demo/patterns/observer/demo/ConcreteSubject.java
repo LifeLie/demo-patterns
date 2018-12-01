@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 具体主题，存入具体观察者对象，在具体主题内部状态改变时，给所有登记过的观察者发出通知
  *
- * @author 良辰
+ * @author ll
  * @date 2018/9/19 上午11:03
  */
 public class ConcreteSubject extends Subject {

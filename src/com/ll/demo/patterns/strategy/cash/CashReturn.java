@@ -2,7 +2,7 @@ package com.ll.demo.patterns.strategy.cash;
 
 /**
  * 返利收费
- * @author 良辰
+ * @author ll
  * @date 2018/7/27 上午11:15
  */
 public class CashReturn extends CashSuper {

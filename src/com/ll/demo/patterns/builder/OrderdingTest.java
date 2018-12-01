@@ -4,7 +4,7 @@ import com.ll.demo.patterns.builder.ordering.Meal;
 import com.ll.demo.patterns.builder.ordering.MealBuilder;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午4:14
  */
 public class OrderdingTest {

@@ -3,7 +3,7 @@ package com.ll.demo.patterns.facade;
 import com.ll.demo.patterns.facade.demo.ShapeMaker;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/17 下午5:22
  */
 public class FacadeTest {

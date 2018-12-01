@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 产品类，由多个组件组成
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午5:45
  */
 public class Product {

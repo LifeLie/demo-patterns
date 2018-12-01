@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.decorator.dress;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/8/17 下午2:31
  */
 public class Person implements Dress {

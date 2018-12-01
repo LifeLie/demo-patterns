@@ -6,7 +6,7 @@ import com.ll.demo.patterns.decorator.dress.SuitB;
 import com.ll.demo.patterns.decorator.dress.SuitC;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/8/17 下午3:18
  */
 public class DressTest {

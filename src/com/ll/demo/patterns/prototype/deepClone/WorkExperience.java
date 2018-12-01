@@ -3,7 +3,7 @@ package com.ll.demo.patterns.prototype.deepClone;
 /**
  * 工作经历
  *
- * @author 良辰
+ * @author ll
  * @date 2018/9/14 上午10:42
  */
 public class WorkExperience implements Cloneable {

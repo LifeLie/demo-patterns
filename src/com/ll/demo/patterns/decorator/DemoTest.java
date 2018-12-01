@@ -8,7 +8,7 @@ import com.ll.demo.patterns.decorator.demo.ConcreteDecoratorB;
  * 装饰器模式允许向一个现有的对象添加新的功能，同时又不改变其结构。这种类型的设计模式属于结构型模式
  * 就增加功能来说，装饰器模式相比生成子类更为灵活
  *
- * @author 良辰
+ * @author ll
  * @date 2018/8/16 下午3:49
  */
 public class DemoTest {

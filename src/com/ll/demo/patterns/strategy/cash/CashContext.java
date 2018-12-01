@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.strategy.cash;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/7/27 下午1:43
  */
 public class CashContext {

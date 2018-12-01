@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.template.demo;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/17 下午3:33
  */
 public class ConcreteB extends Template {

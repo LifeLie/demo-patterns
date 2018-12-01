@@ -6,7 +6,7 @@ import com.ll.demo.patterns.strategy.algorithm.AlgorithmC;
 import com.ll.demo.patterns.strategy.algorithm.Context;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/7/26 上午12:39
  */
 public class AlgorithmTest {

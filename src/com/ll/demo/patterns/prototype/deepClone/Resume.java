@@ -3,7 +3,7 @@ package com.ll.demo.patterns.prototype.deepClone;
 /**
  * 简历
  *
- * @author 良辰
+ * @author ll
  * @date 2018/9/14 上午11:03
  */
 public class Resume implements Cloneable {

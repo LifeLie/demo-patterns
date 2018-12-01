@@ -3,7 +3,7 @@ package com.ll.demo.patterns.prototype;
 import com.ll.demo.patterns.prototype.deepClone.Resume;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/15 上午11:10
  */
 public class DeepCloneTest {

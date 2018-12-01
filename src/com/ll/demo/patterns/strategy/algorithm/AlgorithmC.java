@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.strategy.algorithm;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/7/26 上午12:21
  */
 public class AlgorithmC extends Algorithm{

@@ -2,7 +2,7 @@ package com.ll.demo.patterns.builder.demo;
 
 /**
  * 建造具体的部件
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午5:52
  */
 public class ConcreteProductBuilderA implements ProductBuilder {

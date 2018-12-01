@@ -5,7 +5,7 @@ import com.ll.demo.patterns.template.demo.ConcreteB;
 import com.ll.demo.patterns.template.demo.Template;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/17 下午3:37
  */
 public class DemoTest {

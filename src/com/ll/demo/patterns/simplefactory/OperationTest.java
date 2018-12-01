@@ -4,7 +4,7 @@ import com.ll.demo.patterns.simplefactory.operation.Operation;
 import com.ll.demo.patterns.simplefactory.operation.OperationFactory;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/7/23 上午1:40
  */
 public class OperationTest {

@@ -3,7 +3,7 @@ package com.ll.demo.patterns.observer;
 import com.ll.demo.patterns.observer.demo.*;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/19 下午2:44
  */
 public class Test {

@@ -1,7 +1,7 @@
 package com.ll.demo.patterns.builder.ordering;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/9/18 下午3:59
  */
 public class Coke extends ColdDrink {

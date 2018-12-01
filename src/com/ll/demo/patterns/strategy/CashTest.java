@@ -3,7 +3,7 @@ package com.ll.demo.patterns.strategy;
 import com.ll.demo.patterns.strategy.cash.CashContext;
 
 /**
- * @author 良辰
+ * @author ll
  * @date 2018/7/27 下午1:55
  */
 public class CashTest {

@@ -3,7 +3,7 @@ package com.ll.demo.patterns.decorator.demo;
 /**
  * 定义具体的对象，也可以给该对象添加一些职责
  *
- * @author 良辰
+ * @author ll
  * @date 2018/8/1 下午2:53
  */
 public class ConcreteComponent extends Component {
